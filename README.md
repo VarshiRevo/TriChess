@@ -45,6 +45,7 @@ Intuitive Controls: Easily make moves with simple and intuitive controls.
 ## Author
 
 -[@VarshiRevo](https://github.com/VarshiRevo/VarshiRevo)
+
 -[@WebRevo](https://github.com/VarshiRevo/WebRevo)
 
 ## Support
