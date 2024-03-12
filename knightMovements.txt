@@ -1,0 +1,33 @@
+rows 1 2 are white
+
+rows (boards*8)-1 and (boards*8)-2
+
+rows hold 8 pieces at start (player has 2)
+left right
+
+cols hold 4 pieces at start (player has 8)
+forward back
+
+down one level, location minus
+48 left
+80 right
+66 further
+62 closer
+
+up one level, location plus
+66 closer
+80 left
+48 right
+62 further
+
+down two levels, location minus
+120 left
+136 right
+129 further
+127 closer
+
+up two levels, location plus
+120 right
+136 left
+129 closer
+127 further

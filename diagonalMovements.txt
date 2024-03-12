@@ -1,0 +1,23 @@
+up, right, away
+5
+
+up, right, to
+6
+
+up, left, away
+2
+
+up, left, to
+1
+
+down, right, away
+4
+
+down, right, to
+3
+
+down, left, away
+7
+
+down, left, to
+8

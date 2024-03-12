@@ -1,0 +1,24 @@
+
+a player cannot put THEMSELVES INTO CHECK
+
+when getting movelist, check game state resulting from each move to get threatened spaces, 
+
+when a move is finished, check game state, if 
+
+
+-track white threats
+-track black threats
+
+-player cannot put self in check (any threat to king)
+	-do not allow king to move into danger
+	-do not allow piece to move if result is self king threatened
+
+-check if
+	-only king remains and cannot move
+	-king threatened by opposite and cannot escape
+		-or take threat
+
+
+for each move in the list, track opposite threats
+	remove the move if it results in threat to own king
+	

@@ -1,0 +1,22 @@
+{
+  "name": "3d-chess-online",
+  "version": "0.0.1",
+  "description": "Chatroom and Chess matchmaker using ThreeJS, Node, and Socket",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zenairo/3dChessOnline.git"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.10.2",
+    "net": "^1.0.2",
+    "socket.io": "^1.3.7",
+    "three": "^0.73.0"
+  },
+  "engines": {
+    "node": "5.2.0"
+  }
+}
