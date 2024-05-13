@@ -46,13 +46,11 @@ Intuitive Controls: Easily make moves with simple and intuitive controls.
 
 -[@VarshiRevo](https://github.com/VarshiRevo/VarshiRevo)
 
--[@WebRevo](https://github.com/VarshiRevo/WebRevo)
 
 ## Support
 
 For support,
 Email : varshigaps04.ai@gmail.com,
-sarathi2021ai@gmail.com 
 
 Or
 
