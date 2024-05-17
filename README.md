@@ -33,8 +33,9 @@ Intuitive Controls: Easily make moves with simple and intuitive controls.
   Stalemate and Draws:
     Stalemate: If a player has no legal moves to make and their king is not in check, the game results in a draw due to stalemate.
     Draws: Chess games can also end in draws due to insufficient material (e.g., king vs. king, king and bishop vs. king and bishop with the bishops on opposite colors), threefold repetition, or the fifty-move rule (no pawn movement or capture in the last fifty moves).
-
-Documentation of this Project <a href="https://github.com/VarshiRevo/TriChess-Documentation"><h3>Here</h3></a>
+<br>
+Documentation of this Project: <a href="https://github.com/VarshiRevo/TriChess-Documentation"><h3>Here</h3></a>
+<br>
 ## Tech Stack
 
 - HTML
